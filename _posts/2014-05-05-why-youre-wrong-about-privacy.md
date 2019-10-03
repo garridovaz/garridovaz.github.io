@@ -1,0 +1,28 @@
+---
+id: 68
+title: Why privacy matters, but not how you think
+date: 2014-05-05T02:07:33-03:00
+author: Fernando Garrido Vaz
+layout: post
+guid: http://blog2.garridovaz.com/?p=68
+permalink: /why-youre-wrong-about-privacy/
+categories:
+  - Uncategorized
+tags:
+  - random
+---
+There are a few aspects that make up a product that everyone has strong opinions about. Privacy is one of them, and one that has received a lot of attention lately. Even though the recent debate has pushed the matter in the right direction, I believe most people&#8217;s focus when discussing privacy is misguided, and I believe this can have an impact in how we build our products.
+
+First of all, the regular internet user seems to be terrified of advertisers stealing their private data. The truth is, advertisers don&#8217;t want your data. They want our demographic data &#8211; which is aggregate by nature. Facebook or Google don&#8217;t sell your particular preferences or likes or whatever, they&#8217;re not interested in that. They sell targeting to people like you. Anyone who has ever created a Facebok or AdWords campaign knows that you do have very precise targeting tools that operate _at a demographic level_ &#8211; there&#8217;s no way you are going to access individual people&#8217;s data. Google also is not interested in &#8220;reading your email&#8221;, an expression which conjures up pictures of a sweatshop with mean little people gossipping to each other, &#8220;gosh did you see what John just said to Jane in this email? Gross!&#8221;. Rather, they scan your email for keywords and contextual information, just as any website is scanned by search engines.
+
+Barring very specific circumstances, there is absolutely no reason for a regular user to be concerned with one of these companies &#8220;selling their data&#8221;. In fact, the opposite is often true, as a number of systems are designed to provide you with better content based on information that is anonymously gathered. This is not to say privacy is not important &#8211; it certainly is, and at the very least users should always be informed about what is done with the data they provide to any online service. But because a lot of people fail to realize this, we spend a lot of time and energy fighting for the wrong sort of privacy.
+
+Much more concerning are the breaches of privacy brought about by governments. I can choose not to use Google products, or to not have a Facebook account. However, I can hardly choose not to use my country&#8217;s internet infrastructure. Also, what companies can and cannot do with the data I provide them is clearly laid out in their terms of use, those long documents that everyone agrees to but hardly anyone reads. With governments though, we have learned that no clear rules apply, and we can never be entirely sure what is and what is not monitored.
+
+We should be less worried about Google reading our email, and much more worried about freely giving away our biometric information to our governments. With the rise of the &#8220;internet of things&#8221;, this kind of information will be used much more widely. We will soon be able to use our fingerprints to buy stuff from our phones, and that is only the beginning (or [why do you think Apple has fingerprint sensors on the iPhone 5S?](http://www.telegraph.co.uk/technology/apple/10607007/Apple-hints-at-fingerprint-scanner-mobile-payment.html)). Would you want this data to be shared, or even be made available everywhere and be subjected to the alarming number of security breaches that occur all the time? I somehow find it much more disturbing when a &#8220;fake me&#8221; buys something using my fingerprint than with my password. 
+
+Additionally, people throw away their right to privacy all the time by their own behavior. When you post photos of yourself and your family two thousand miles from your house saying &#8220;what a great week we&#8217;ll have here&#8221;, you&#8217;re putting yourself at risk of having your house broken into. This kind of risk is much more significant than that of Facebook selling some of your personally-identifiable information and something embarassing happening because of it. I&#8217;m all for openly sharing lots of stuff online, but we need to be more aware of the signals we&#8217;re sending out. Not everyone is just interested in &#8220;liking&#8221; our kids&#8217; latest cute face.
+
+What does that mean to the way products are designed? No matter your personal feelings on the matter, we must first realize that [we are not the audience for the products we build](http://venturebeat.com/2014/04/28/5-product-design-mistakes-you-need-to-avoid). So it&#8217;s important to understand how people feel about privacy, and to carefully consider the issue when designing your product so that you are helping people make the best, most informed choices. History is full of [examples](http://www.pcworld.com/article/140182/article.html) of [what happens](http://www.dailymail.co.uk/news/article-2260955/Instagram-lost-nearly-HALF-daily-users-month-backlash.html) when companies [step over certain thresholds](http://www.businessinsider.com/warning-google-buzz-has-a-huge-privacy-flaw-2010-2#!IocuB) [regarding privacy](http://www.theverge.com/2014/2/7/5390416/linkedin-kills-its-intro-email-service-after-less-than-four-months). 
+
+How do you feel about privacy in the products you use personally? And how is that reflected in the products you build? [Reach out on Twitter](http://www.twitter.com/garrido) and let&#8217;s discuss!
