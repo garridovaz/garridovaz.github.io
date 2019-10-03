@@ -19,4 +19,4 @@ I cannot imagine a strongest, purest kind of friendship and loyalty. I will alwa
 
 Please give your dog a hug for me today.
 
-![Lua](/wp-content/uploads/2017/07/lua.JPG)
+![Lua](/assets/uploads/2017/07/lua.JPG)
