@@ -3,7 +3,7 @@ id: 142
 title: whoami
 date: 2017-07-10T00:40:42-03:00
 author: Fernando Garrido Vaz
-layout: page
+layout: post
 guid: http://blog2.garridovaz.com/?page_id=142
 ---
 I am Fernando Garrido Vaz, professional geek. As a former colleague once said to me, a specialist at being a generalist. I am a Product Manager who loves to figure out what it takes to make a product great. Over the years I have worked with web products in various industries, both B2B and B2C. I believe that having strong opinions based on experience is great and that backing that up with data is even better.

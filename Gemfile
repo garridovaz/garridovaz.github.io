@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 #gem "jekyll-theme-primer"
 #gem "jekyll-theme-cayman"
+#gem "jekyll-remote-theme", github: "benbalter/jekyll-remote-theme", branch: "master"
+#gem "jekyll-paginate"
+#gem "sass-rails"
