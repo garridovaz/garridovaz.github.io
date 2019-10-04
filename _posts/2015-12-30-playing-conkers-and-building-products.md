@@ -22,7 +22,7 @@ _Yes, I did harden them in vinegar. Call me a cheat._
 
 Your truths become a little softer. You find that things that you took for granted can be done in different ways that you didn&#8217;t think of, but which work just fine. I mean, if driving like that was the right way to do it you wouldn&#8217;t have to tell people which way to look when crossing the road, right? And yet, people seem to get around quite safely.
 
-![Thanks BockoPix on Flickr](/wp-content/uploads/2017/07/zebra.jpg)  
+![Thanks BockoPix on Flickr](/assets/uploads/2017/07/zebra.jpg)  
 _You&#8217;d think he&#8217;d know by now, but apparently even the locals need to be reminded at each street corner._
 
 So it is with building products. You can be, or consult with, the biggest domain experts in the world. But what if your users do that task one hundred times a day, not once like you do? What if cricket is actually fun after all? What if your users can&#8217;t read those labels because they&#8217;re colour blind? What if beef grilled that way does taste good as well? What if your users don&#8217;t know whether their export file needs to be comma or tab separated? Apply a little empathy and it will be easier to find out.

@@ -9,9 +9,9 @@ permalink: /if-i-were-on-friends-i-would-be-chandler-bing/
 categories:
   - Uncategorized
 ---
-If I was a character from Friends&#8224;, I would be Chandler Bing &#8211; the guy who nobody knows what he does at work. It&#8217;s easy if you&#8217;re a doctor, a plumber or a lawyer. But what the heck does a Product Manager do? 
+If I was a character from Friends&#8224;, I would be Chandler Bing &#8211; the guy who nobody knows what he does at work. It&#8217;s easy if you&#8217;re a doctor, a plumber or a lawyer. But what the heck does a Product Manager do?
 
-![What the heck is that?](/wp-content/uploads/2017/07/chandler_job.jpeg) 
+![What the heck is that?](/assets/uploads/2017/07/chandler_job.jpeg) 
 
 My own situation is not helped by the fact that I work remotely. This means I get to sit by myself in my home office talking to people from strange locations in a foreign language, and then I get paid. Very fishy. I have tried explaining this to people over the age of 70 multiple times, and I have always failed. All I get is a puzzled look and some snarky remark. _Come on, I know you&#8217;re really playing poker. You can tell me._
 
@@ -27,11 +27,11 @@ Alright, so now I&#8217;m back to work and to doing &#8220;Product Management&#8
 
 Then comes the really beautiful moment of remote work. Since I am a few hours ahead of my company&#8217;s offices and of most of the Product and Design teams, I have the rest of the morning pretty much to myself. I put this to use by getting into &#8220;deep work&#8221; &#8211; longer tasks that require concentration or creative effort. Writing specs, working on mockups, planning projects.
 
-Then it&#8217;s off to lunch. Lunchtime is both an opportunity to be with my family and also a pretty hectic moment where help is needed to get everyone fed and ready for whatever they do in the afternoon (usually school). 
+Then it&#8217;s off to lunch. Lunchtime is both an opportunity to be with my family and also a pretty hectic moment where help is needed to get everyone fed and ready for whatever they do in the afternoon (usually school).
 
-Then in the afternoon, things get busier as more people are around by this time of day. I&#8217;m now usually chatting to people on our internal chat platform, attending our teams&#8217; daily stand-up meetings or other meetings. And because of the time zone differences, this will sometimes go on until 7 or even 8 PM. 
+Then in the afternoon, things get busier as more people are around by this time of day. I&#8217;m now usually chatting to people on our internal chat platform, attending our teams&#8217; daily stand-up meetings or other meetings. And because of the time zone differences, this will sometimes go on until 7 or even 8 PM.
 
-What are those meetings about, you might ask? A considerable part of Product Management, at least in a larger team, is to ensure that what people are doing is aligned to your product&#8217;s vision and business goals. Keep all the parts moving in the same direction. So you end up getting involved in a ton of different projects, large and small, and you have to ensure that your particular part of the product is heading where it&#8217;s supposed to go. 
+What are those meetings about, you might ask? A considerable part of Product Management, at least in a larger team, is to ensure that what people are doing is aligned to your product&#8217;s vision and business goals. Keep all the parts moving in the same direction. So you end up getting involved in a ton of different projects, large and small, and you have to ensure that your particular part of the product is heading where it&#8217;s supposed to go.
 
 The attentive reader will now be thinking &#8220;but wait, the guy starts at 7 AM and works until 8 PM, that&#8217;s crazy!&#8221;. What I haven&#8217;t mentioned is one of the other perks of remote work. It is not uncommon for me to take short breaks during the day. This can be a 15-minute break to get some coffee with my wife, or half an hour to go out and pay some bills. So it makes the entire day much lighter, as I can regularly refresh my head. Often I will still think about whatever I was doing at work during the break, but that&#8217;s actually great as the change of scenery often sparks new ideas.
 
