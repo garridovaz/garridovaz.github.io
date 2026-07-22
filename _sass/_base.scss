@@ -1,0 +1,93 @@
+* { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  margin: 0;
+  background: $paper;
+  color: $ink;
+  font-family: $font-body;
+  font-size: $size-3;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  font-family: $font-display;
+  font-weight: 600;
+  line-height: 1.15;
+  margin: 0 0 0.5em;
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: $size-7; }
+h2 { font-size: $size-5; }
+h3 { font-size: $size-4; }
+
+p { margin: 0 0 1.1em; }
+
+a {
+  color: $signal;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+
+  &:hover { color: $signal-dim; }
+
+  &:focus-visible {
+    outline: 2px solid $signal;
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+}
+
+button:focus-visible {
+  outline: 2px solid $signal;
+  outline-offset: 3px;
+}
+
+.mono {
+  font-family: $font-mono;
+  font-size: $size-1;
+  letter-spacing: 0.02em;
+}
+
+.eyebrow {
+  @extend .mono;
+  color: $data;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 0.6em;
+}
+
+.wrap {
+  max-width: $wide-width;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.prose {
+  max-width: $content-width;
+}
+
+.container-narrow {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $line;
+  margin: 3rem 0;
+}
