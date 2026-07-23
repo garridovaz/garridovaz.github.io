@@ -13,6 +13,8 @@ github_username: garridovaz
 markdown: kramdown
 permalink: /blog/:title/
 
+relaunch_date: "2026-07-22"
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
