@@ -14,21 +14,21 @@ title: Experience
       <li class="timeline-item">
         <div class="role-head">
           <h3 class="role-title">Staff Product Manager — Integrations</h3>
-          <span class="role-dates">Jan 2025 – Present</span>
+          <span class="role-dates">Jan 2026 – Jul 2026</span>
         </div>
         <div class="role-company">Finom · Series C European fintech (~600 employees) building financial tools for SMEs</div>
         <ul class="impact">
-          <li>Defined and launched the integrations product roadmap from scratch as the first dedicated PM for the domain, establishing priorities, milestones, and success metrics across the full portfolio.</li>
+          <li>Defined and launched the integrations product roadmap from scratch, establishing priorities, milestones, and success metrics across the full portfolio.</li>
           <li>Launched the integration marketplace on mobile, extending access to Finom's ecosystem via the company's primary channel.</li>
-          <li>Led a quality transformation across the integrations catalogue: reduced support ticket volume by <span class="metric">over 60%</span> and brought integration-related negative eNPS to <span class="metric">zero</span>.</li>
-          <li>Delivered mobile integrations capability, enabling users to manage connected tools and workflows directly within the app.</li>
+          <li>Led a quality transformation across the integrations catalogue: reduced support ticket volume by <span class="metric">over 60%</span> and brought integration-related negative NPS to <span class="metric">zero</span>.</li>
+          <li>Built and launched features to production using AI coding tools. One third of new connection attempts to the "multibank" feature now come from new entry points built individually through AI tools.</li>
         </ul>
       </li>
 
       <li class="timeline-item">
         <div class="role-head">
           <h3 class="role-title">Staff Product Manager — Connect (Integrations & AI)</h3>
-          <span class="role-dates">Feb 2024 – Jan 2025</span>
+          <span class="role-dates">Feb 2024 – Jan 2026</span>
         </div>
         <div class="role-company">Qonto · Leading European B2B neobank</div>
         <ul class="impact">
@@ -36,7 +36,6 @@ title: Experience
           <li>Scaled integrations from <span class="metric">46 to 6,000+</span>, architecting the marketplace expansion that transformed Qonto from a payments tool into a full finance workspace.</li>
           <li>Built mobile integrations management, extending the ecosystem to Qonto's primary user touchpoint.</li>
           <li>Launched an AI invoice collector — a first-of-its-kind AI operator that automatically retrieves invoices from suppliers.</li>
-          <li>Pioneered the integration of AI agent workflows into the Connect platform, enabling intelligent, contextual automation within financial processes.</li>
         </ul>
       </li>
 
@@ -48,7 +47,7 @@ title: Experience
         <div class="role-company">Klarna · B2B Product Manager across Klarna's Merchant platform</div>
         <ul class="impact">
           <li>Designed and shipped a new Merchant Onboarding API, cutting average PSP partner onboarding time from <span class="metric">~8 minutes to under 5 seconds</span> and unlocking <span class="metric">100K+</span> additional partners across new geographies.</li>
-          <li>Built end-to-end self-service onboarding for Klarna Ads Manager, enabling revenue generation at scale from Growth Marketing products.</li>
+          <li>Led a workstream of six teams that built a platform to help Klarna scale its advertising products. end-to-end self-service onboarding for Klarna Ads Manager, enabling revenue generation at scale from Growth Marketing products.</li>
           <li>Launched Klarna Search & Compare in the US, Norway, and Germany, expanding Klarna's discovery surface.</li>
           <li>Owned the Merchant Account Infrastructure (MAI) API and the Merchant Onboarding Experience UI serving both self-onboarding and managed merchant flows.</li>
         </ul>
