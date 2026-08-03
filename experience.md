@@ -7,7 +7,7 @@ title: Experience
     <div class="section-head prose">
       <span class="eyebrow">10+ years in product</span>
       <h1>Experience</h1>
-      <p>Staff Product Manager with a decade spent building B2B SaaS and fintech products across integrations, marketplaces, merchant onboarding, and AI-powered workflows — from zero-to-one launches to scaling existing platforms, across distributed, multi-timezone teams.</p>
+      <p>Staff Product Manager with a decade spent building B2B SaaS and fintech products across integrations, marketplaces, merchant onboarding, API design and AI-powered workflows — from zero-to-one launches to scaling existing platforms, across distributed, multi-timezone teams.</p>
     </div>
 
     <ul class="timeline">

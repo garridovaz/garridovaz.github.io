@@ -7,7 +7,7 @@ title: Services
     <div class="section-head prose">
       <span class="eyebrow">Freelance & fractional</span>
       <h1>How I can help</h1>
-      <p>I work with fintech and B2B platforms that need senior product ownership on integrations, partner ecosystems, or AI-driven automation — either for a defined engagement or on a fractional, ongoing basis. Draft copy below — edit to match your real offer and pricing model.</p>
+      <p>I work with fintech and B2B platforms that need senior product ownership on integrations, partner ecosystems, API design or AI-driven automation — either for a defined engagement or on a fractional, ongoing basis.</p>
     </div>
 
     <div class="services-grid">
